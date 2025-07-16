@@ -1,75 +1,35 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Adarsh Rai — Full-Stack Developer | Java & Spring Boot Enthusiast | AWS Learner 🚀</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarshrai00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshrai00)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/adarshrai00)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adarshrai00)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adarshrai002)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshrai9792@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adarshrai00&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=adarshrai00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-</div>
-
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on **Spring Boot backend projects** and **React UIs**
-- 🌱 Learning Java Core, JDBC, Spring Boot, AWS, and Functional Programming
-- 💡 Exploring backend design patterns and architecture (Factory, Layered Architecture)
-- ⚡ Fun fact: I like writing code that speaks for itself!
-
----
-
-### 💼 Projects
-
-- ✏️ **[Edusort](https://github.com/adarshrai00/edusort)** – A student sorter tool built with Java & MySQL  
-- 🌐 **[CodeNotion](https://github.com/adarshrai00/codenotion)** – React UI project for a coding platform  
-- 🎞️ **[GIF Generator](https://github.com/adarshrai00/gif-generator)** – React + GIPHY API fun project  
-- 🍳 **Recipe Management System** – Java Swing desktop app with layered architecture
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adarshrai00&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshrai00&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophies" />
-</div>
-
----
-
-### 🕹️ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshrai00/adarshrai00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshrai00/adarshrai00/output/pacman-contribution-graph.svg">
-  <img alt="Adarsh's contribution graph" src="https://raw.githubusercontent.com/adarshrai00/adarshrai00/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-⭐️ Thanks for visiting! Let's build something amazing together 💻
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
