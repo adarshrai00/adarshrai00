@@ -1,3 +1,15 @@
+## 👋 Welcome!
+
+Hi, I'm **Adarsh Rai**  
+🔸 Full-Stack Developer  
+🔸 Exploring Java, Spring Boot, React, and Cloud (AWS)  
+🔸 I enjoy building real-world projects and learning new technologies  
+🔸 Let’s connect and grow together 🚀
+
+
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarshrai00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshrai00)
@@ -5,6 +17,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adarshrai00)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adarshrai002)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshrai9792@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,12 +38,26 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarshrai00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/></td>
+      <td><img src="https://nirzak-streak-stats.vercel.app/?user=adarshrai00&theme=dark&hide_border=false" height="180"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrai00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=adarshrai00&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
